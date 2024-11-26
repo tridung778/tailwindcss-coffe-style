@@ -22,6 +22,10 @@ module.exports = {
       animation: {
         sliceDown: "sliceDown 0.4s ease-in-out",
       },
+      backgroundImage: {
+        "slider-bg":
+          "url(https://assets.website-files.com/5be96251aaba7a7b19ecdf69/5be96251aaba7a58aaecdfba_Header-Pic.jpg)",
+      },
     },
   },
   plugins: [],
