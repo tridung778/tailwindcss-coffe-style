@@ -21,9 +21,18 @@ module.exports = {
             transform: "translateY(0)",
           },
         },
+        fadeIn: {
+          from: {
+            opacity: 0,
+          },
+          to: {
+            opacity: 1,
+          },
+        },
       },
       animation: {
         sliceDown: "sliceDown 0.4s ease-in-out",
+        fadeIn: "fadeIn 0.4s ease-in-out",
       },
       backgroundImage: {
         "slider-bg":

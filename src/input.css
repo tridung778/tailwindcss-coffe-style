@@ -32,5 +32,5 @@
 }
 
 .td-subheadline-label {
-  @apply mx-4 text-center text-[13px] font-medium uppercase tracking-widest text-gray-500;
+  @apply mx-4 text-center text-xs font-medium uppercase tracking-widest text-gray-500;
 }
