@@ -7,7 +7,10 @@ module.exports = {
         karla: ["Karla", "sans-serif"],
       },
       colors: {
-        "light-coffee": "#c89f94",
+        coffee: {
+          200: "#c89f94",
+          400: "#A25F4B",
+        },
       },
       keyframes: {
         sliceDown: {
